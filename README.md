@@ -16,6 +16,6 @@ I'm Jacob Hutchens, a student at Brigham Young University-Idaho interested in co
 
 ### Let's Connect!
 
-- Here is my [LinkedIn]https://www.linkedin.com/in/jacob-hutchens-173407223/ profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/jacob-hutchens-173407223/) profile
 
 ### Please feel free to explore my projects and don't hesitate to reach out via LinkedIn.
