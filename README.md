@@ -1,8 +1,6 @@
-## <Your Name Here>
+## Jacob Hutchens
 
-Hello, GitHub! 👋
-
-I'm Jacob Hutchens, a student at Brigham Young University-Idaho interested in computer science and machine learning.
+Hello, my name is Jacob Hutchens. I'm a student at Brigham Young University-Idaho interested in computer science and machine learning.
 
 ### About Me
 
