@@ -15,5 +15,6 @@ Hello, my name is Jacob Hutchens. I'm a student at Brigham Young University-Idah
 ### Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/0118-jacob-hutchens/) profile
+- If you're interested, here is my [YouTube](https://www.youtube.com/@jacob.hutchens.118) channel as well
 
 ### Please feel free to explore my projects and don't hesitate to reach out via LinkedIn.
